@@ -20,8 +20,6 @@ Tools Used
     nltk
     scikit-learn
     matplotlib
-    pickle
-    Streamlit
 
 Concept Behind the Model
 
